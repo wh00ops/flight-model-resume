@@ -1,0 +1,17 @@
+{
+    "name": "FreakGames.Unity.Core.FlightModel",
+    "rootNamespace": "FreakGames.Unity.Core.FlightModel",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:12c6a4996b5da4a27895cbf1f9b0d843"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

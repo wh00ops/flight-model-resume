@@ -1,0 +1,22 @@
+{
+    "name": "FreakGames.Unity.Core.FlightModel.Tests",
+    "rootNamespace": "FreakGames.Unity.Core.FlightModel.Tests",
+    "references": [
+        "UnityEngine.TestRunner",
+        "FreakGames.Unity.Core.FlightModel",
+        "FreakGames.Unity.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

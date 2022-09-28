@@ -1,0 +1,20 @@
+{
+  "displayName": "Flight Model",
+  "version": "1.0.1",
+  "author": {
+    "name": "Freak Games"
+  },
+  "dependencies": {
+    "com.unity.test-framework": "1.1.29",
+    "com.unity.textmeshpro": "3.0.6",
+    "com.freakgames.unity.core": "0.2.0"
+  },
+  "name": "com.freakgames.unity.core.flightmodel",
+  "description": "Flight model package for Unity ",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@freak-games"
+  },
+  "repository": {
+    "url": "git@github.com:freak-games/flight-model.git"
+  }
+}
